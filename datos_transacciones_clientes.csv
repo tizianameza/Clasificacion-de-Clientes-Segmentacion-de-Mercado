@@ -1,0 +1,104 @@
+ClienteID,Nombre,Edad,Genero,Ubicacion,Cantidad_Compras,Monto_Total
+1,John Doe,30,Male,New York,15,350.25
+2,Jane Smith,25,Female,Los Angeles,20,480.50
+3,Michael Johnson,35,Male,Chicago,8,150.75
+4,Emily Brown,28,Female,Houston,25,600.00
+5,William Taylor,40,Male,Philadelphia,18,420.75
+6,Olivia Martinez,32,Female,Phoenix,12,300.50
+7,Liam Jones,27,Male,San Antonio,10,230.00
+8,Sophia Anderson,38,Female,San Diego,22,520.25
+9,Aiden Thomas,33,Male,Dallas,17,390.00
+10,Isabella Wilson,29,Female,San Jose,14,330.50
+11,Mason White,45,Male,Austin,23,540.75
+12,Charlotte Garcia,31,Female,Jacksonville,9,190.25
+13,Ethan Miller,26,Male,Indianapolis,16,370.00
+14,Amelia Rodriguez,35,Female,San Francisco,21,490.50
+15,James Martinez,30,Male,Columbus,13,310.75
+16,Mia Hernandez,27,Female,Fort Worth,24,570.25
+17,Alexander Davis,40,Male,Charlotte,7,130.50
+18,Sofia Lopez,28,Female,Detroit,19,440.00
+19,Benjamin Gonzalez,32,Male,El Paso,11,260.25
+20,Harper Perez,37,Female,Memphis,26,620.50
+21,Evelyn Moore,33,Male,Seattle,15,350.75
+22,Logan Martin,26,Female,Denver,20,480.25
+23,Victoria Jackson,41,Male,Boston,8,150.50
+24,Scarlett Thompson,29,Female,Baltimore,25,600.75
+25,Avery Lee,34,Male,Oklahoma City,18,420.25
+26,Chloe Harris,30,Female,Louisville,12,300.00
+27,Elijah Clark,35,Male,Portland,10,230.50
+28,Madison Lewis,31,Female,Las Vegas,22,520.75
+29,Grayson Robinson,38,Male,Milwaukee,17,390.50
+30,Abigail Walker,27,Female,Albuquerque,14,330.25
+31,Landon Hall,42,Male,Tucson,23,541.00
+32,Elizabeth Young,25,Female,Fresno,9,190.50
+33,Jacob Hernandez,36,Male,Sacramento,16,370.25
+34,Natalie King,32,Female,Long Beach,21,490.75
+35,Lucas Allen,28,Male,Kansas City,13,311.00
+36,Leah Wright,39,Female,Mesa,24,570.50
+37,Jaxon Scott,33,Male,Virginia Beach,7,131.00
+38,Lily King,29,Female,Atlanta,19,440.25
+39,Luna Green,34,Male,Colorado Springs,11,260.50
+40,Hudson Perez,31,Female,Raleigh,26,621.00
+41,Avery Lee,36,Male,Miami,15,351.00
+42,Ellie Baker,27,Female,Oakland,20,480.75
+43,Bentley Carter,42,Male,Minneapolis,8,150.75
+44,Stella Perez,25,Female,Tulsa,25,601.00
+45,Easton Adams,34,Male,Cleveland,18,420.50
+46,Paisley Cook,30,Female,Wichita,12,300.25
+47,Colton Gonzales,35,Male,New Orleans,10,231.00
+48,Riley Edwards,28,Female,Arlington,22,521.00
+49,Penelope Stewart,39,Male,Bakersfield,17,390.75
+50,Tristan Butler,33,Female,Tampa,14,330.00
+51,Ryder Price,37,Male,Honolulu,23,541.25
+52,Camila Murphy,32,Female,Aurora,9,191.00
+53,Nicholas Rivera,26,Male,Anaheim,16,370.50
+54,Charlie Kelly,34,Female,Santa Ana,21,491.00
+55,Eli Baker,31,Male,St. Louis,13,311.25
+56,Piper Howard,38,Female,Riverside,24,570.75
+57,Lincoln Hill,27,Male,Corpus Christi,7,131.25
+58,Violet Hayes,29,Female,Lexington,19,440.50
+59,Kennedy Mitchell,36,Male,Pittsburgh,11,260.75
+60,Summer Bell,32,Female,Anchorage,26,621.25
+61,King Ross,35,Male,Stockton,15,351.25
+62,Madeline Ward,25,Female,Cincinnati,20,481.00
+63,Leo Perry,42,Male,St. Paul,8,151.00
+64,Isabelle Coleman,26,Female,Toledo,25,601.25
+65,Gracie Foster,34,Male,Greensboro,18,421.50
+66,Angelina Smith,30,Female,Plano,12,300.75
+67,Emilia Rivera,35,Male,Newark,10,231.25
+68,Zoey Ramirez,28,Female,Lincoln,22,521.25
+69,Louis Barnes,39,Male,Orlando,17,391.00
+70,Weston Brooks,33,Female,Jersey City,14,330.25
+71,Mya Russell,37,Male,Chula Vista,23,541.50
+72,Naomi Patel,32,Female,Buffalo,9,191.25
+73,Ezekiel Evans,26,Male,Fort Wayne,16,371.00
+74,Melody Sanchez,34,Female,Durham,21,491.25
+75,Caroline Barnes,31,Male,St. Petersburg,13,311.50
+76,Milo Wallace,38,Female
+
+,Laredo,24,571.00
+77,Bennett Powell,27,Male,Chandler,7,131.50
+78,Katherine Rogers,29,Female,Madison,19,440.75
+79,Eleanor Cooper,36,Male,Lubbock,11,261.00
+80,Alexander Bennett,32,Female,Lubbock,26,621.50
+81,Gavin Reed,35,Male,Garland,15,351.50
+82,Eva Peterson,25,Female,Glendale,20,481.25
+83,John Murray,42,Male,Scottsdale,8,151.25
+84,David Coleman,26,Female,Orlando,25,601.50
+85,Molly Butler,34,Male,Irvine,18,421.25
+86,Clara Barnes,30,Female,Reno,12,301.00
+87,Anna King,35,Male,Henderson,10,231.50
+88,Joel Ramirez,28,Female,Boise,22,521.50
+89,Hayden Watson,39,Male,Winston-Salem,17,391.25
+90,Aurora Long,33,Female,Chesapeake,14,330.50
+91,Hazel Lopez,37,Male,Baton Rouge,23,541.75
+92,Alexis Morris,32,Female,Baton Rouge,9,191.50
+93,Miles Rivera,26,Male,Baton Rouge,16,371.25
+94,Paige Coleman,34,Female,Richmond,21,491.50
+95,Kylie Baker,31,Male,Richmond,13,311.75
+96,Nolan Perez,38,Female,Richmond,24,571.50
+97,Quinn Richardson,27,Male,Richmond,7,131.75
+98,Elliot Gray,29,Female,Boise,19,441.00
+99,Delilah Torres,36,Male,Boise,11,261.25
+100,Audrey Griffin,32,Female,Spokane,26,621.75
+```
